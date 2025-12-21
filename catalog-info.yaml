@@ -4,6 +4,7 @@ metadata:
   name: python-code-app
   annotations:
     github.com/project-slug: aravindavvaru/python-code-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental
