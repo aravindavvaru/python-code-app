@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: aravindavvaru/python-code-app
     backstage.io/techdocs-ref: dir:.
+    backstage.io/source-template: template:default/template.yaml
 spec:
   type: service
   lifecycle: experimental
